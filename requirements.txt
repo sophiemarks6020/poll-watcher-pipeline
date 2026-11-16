@@ -1,0 +1,11 @@
+pandas
+pandas-gbq
+requests
+pygsheets
+python-dateutil
+google-cloud-bigquery
+google-auth
+google-api-python-client
+ics
+
+
